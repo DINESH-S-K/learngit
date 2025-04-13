@@ -1,2 +1,2 @@
 # learngit
-learn advance git commands
+learn advance git commands and workflow
